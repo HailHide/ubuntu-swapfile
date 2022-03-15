@@ -6,6 +6,10 @@ A small and lazy utility to create a 2G swapfile on Ubuntu (server/desktop)
 
 *  curl
 
+```bash
+sudo apt install curl
+```
+
 ## usage :
 
 ```bash
