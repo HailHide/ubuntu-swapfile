@@ -14,7 +14,7 @@ sudo curl -sSf https://raw.githubusercontent.com/HailHide/ubuntu-swapfile/main/s
 
 ## check result :
 
-Use **htop** in Mem. tab you should see a 2G swap.
+Use **htop** system monitoring utility (included in script) to check swap in mem. tab you should see a 2G swap.
 
 ```bash
 htop
